@@ -883,3 +883,23 @@ c@https://www.gstatic.com/_/mss/boq-identity/_/js/k=boq-identity.AccountsSignInU
 
 1719627302064	Marionette	INFO	Stopped listening on port 52070
 Dynamically enable window occlusion 1
+1721584472905	geckodriver	INFO	Listening on 127.0.0.1:49825
+1721584476053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juano\\AppData\\Local\\Temp\\rust_mozprofile4MzgVZ"
+1721584517987	geckodriver	INFO	Listening on 127.0.0.1:49916
+1721584521036	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49917" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\juano\\AppData\\Local\\Temp\\rust_mozprofileGW8OXr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1721584523781	Marionette	INFO	Marionette enabled
+1721584525931	Marionette	INFO	Listening on port 49949
+WebDriver BiDi listening on ws://127.0.0.1:49917
+Read port: 49949
+1721584527276	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49917/devtools/browser/99231718-91a3-40f2-a9c5-4948e6270f4a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+JavaScript warning: https://accounts.google.com/v3/signin/identifier?ifkv=AdF4I74_ISNXpfiHrhs0RJB3lkvdtjRxUbrnNmdpmIxkfkZvGwaBTlU5i0oJpKXnnMw6dLO3qLJlmA&flowName=GlifWebSignIn&flowEntry=ServiceLogin&dsh=S621018850%3A1721584537347017&ddm=0 line 85 > injectedScript line 2 > eval line 4485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://accounts.google.com."
+1721584553799	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
